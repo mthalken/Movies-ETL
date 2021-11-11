@@ -9,24 +9,6 @@
 
 ## Resources
 - Source of data: 
-- Software: Python 3.7.10, Conda 4.10.3, Jupyter Notebook 6.3.0, Visual Studio Code 1.60.2
-- Please see the [here]() to see the refactored code.
-- You can also see the preliminary code [here]()
-
-## Results 
-### The analysis
-- What are two conclusions you can draw?
-
-- What can you conclude?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
-
-## Summary
-
-
-
-
-image link: ![png](link)
-clink link: [here](link)
+- Software: Python 3.7.10, Conda 4.10.3, Jupyter Notebook 6.3.0, Visual Studio Code 1.60.2, pgAdmin 4, PostgreSQL 13.4
+- Please see the [here](https://github.com/mthalken/Movies-ETL/blob/main/ETL_create_database.ipynb) to see the refactored code.
+- You can also see the preliminary code [here](https://github.com/mthalken/Movies-ETL/blob/main/Resources/uploading_data.ipynb)
